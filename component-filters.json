@@ -45,7 +45,12 @@
       "product-recommendations",
       "targeted-block",
       "text",
-      "catalog-menu"
+      "catalog-menu",
+      "hero-v2",
+      "product-teaser",
+      "quote",
+      "tabs",
+      "video"
     ]
   },
   {
@@ -81,6 +86,12 @@
     "components": [
       "text",
       "image"
+    ]
+  },
+  {
+    "id": "tabs",
+    "components": [
+      "tabs-item"
     ]
   }
 ]
