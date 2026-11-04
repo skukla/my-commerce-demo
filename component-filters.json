@@ -44,8 +44,7 @@
       "product-list-page",
       "product-recommendations",
       "targeted-block",
-      "text",
-      "catalog-menu"
+      "text"
     ]
   },
   {
@@ -81,28 +80,6 @@
     "components": [
       "text",
       "image"
-    ]
-  },
-  {
-    "id": "circle-carousel",
-    "components": [
-      "circle-carousel-item"
-    ]
-  },
-  {
-    "id": "search-bar",
-    "components": []
-  },
-  {
-    "id": "table",
-    "components": [
-      "table-row"
-    ]
-  },
-  {
-    "id": "tabs",
-    "components": [
-      "tab-item"
     ]
   }
 ]
